@@ -240,7 +240,7 @@ input.valid {
     padding: 20px;
   }
   .steps {
-    background: url(assets/images/bg-sidebar-desktop.svg);
+    background: url(design/bg-sidebar-desktop.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -542,7 +542,7 @@ input.valid {
   }
   .steps {
     width: 100%;
-    background: url(assets/images/bg-sidebar-mobile.svg);
+    background: url(design/bg-sidebar-mobile.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
